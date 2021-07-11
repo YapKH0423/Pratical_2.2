@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="myName">Yap Kok Hao</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">The quick brown fox jumps over the lazy dog.</string>
+</resources>
